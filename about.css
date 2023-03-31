@@ -1,0 +1,70 @@
+.aboutdiv
+{
+    width: 100%;
+    min-height: 150vh;
+    background-image: url(https://images.unsplash.com/photo-1555118367-93f01e18660f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fGNvZmZlZSUyMGN1cHxlbnwwfHwwfHw%3D&auto=format&fit=crop&w=500&q=60);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover ;
+    min-height :100vh;
+    width :100%;
+}
+.about-div
+{
+    display: flex;
+    
+}
+.top
+{
+    padding: 10px;
+  border-radius: 15px;
+    box-shadow:5px 5px 5px 8px pink;
+    margin-left:5%;
+    margin-top: 5%;
+    width: 30vw;
+    height: 35vh;
+}
+.top h2{
+    font-size: 2.5em;
+    color: black;
+}
+.top i{
+    font-size: 1.2em;
+    color: black;
+}
+.top1
+{
+    padding: 20px;
+  border-radius: 20px;
+    box-shadow:5px 5px 5px 8px pink;
+    margin-left:7%;
+    margin-top: 5%;
+    width: 20vw;
+    height: 30vh;
+}
+.top1 img{
+    width: 5vw;
+}
+.top2
+{
+    padding: 20px;
+  border-radius: 20px;
+    box-shadow:5px 5px 5px 8px pink;
+    margin-left:5%;
+    margin-top: 5%;
+    width: 20vw;
+    height: 30vh;
+}
+.top2 img{
+    width: 5vw;
+}
+.bottom
+{
+    font-size: larger   ;
+    width: 70vw;
+    margin-left: 20%;
+    margin-top: 5%;
+}
+.bottom img{
+    width: 3vw;
+}
